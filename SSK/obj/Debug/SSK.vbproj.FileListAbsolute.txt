@@ -1,0 +1,16 @@
+C:\Users\Roshan\source\repos\SSK\SSK\bin\Debug\SSK.exe.config
+C:\Users\Roshan\source\repos\SSK\SSK\bin\Debug\SSK.exe
+C:\Users\Roshan\source\repos\SSK\SSK\bin\Debug\SSK.pdb
+C:\Users\Roshan\source\repos\SSK\SSK\bin\Debug\SSK.xml
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.vbprojAssemblyReference.cache
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Form1.resources
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Resources.resources
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.vbproj.GenerateResource.cache
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.vbproj.CoreCompileInputs.cache
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.exe
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.xml
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.pdb
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Form2.resources
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Form3.resources
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Form4.resources
+C:\Users\Roshan\source\repos\SSK\SSK\obj\Debug\SSK.Form5.resources
